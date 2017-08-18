@@ -1,0 +1,64 @@
+[debug] [2017-08-16T20:14:44.154Z] ----------------------------------------------------------------------
+[debug] [2017-08-16T20:14:44.157Z] Command:       C:\Program Files (x86)\nodejs\node.exe C:\Users\Brave Initiatives\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] [2017-08-16T20:14:44.158Z] CLI Version:   3.9.2
+[debug] [2017-08-16T20:14:44.158Z] Platform:      win32
+[debug] [2017-08-16T20:14:44.158Z] Node Version:  v6.11.2
+[debug] [2017-08-16T20:14:44.158Z] Time:          Wed Aug 16 2017 15:14:44 GMT-0500 (Central Daylight Time)
+[debug] [2017-08-16T20:14:44.158Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-08-16T20:14:44.172Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-08-16T20:14:44.173Z] > authorizing via signed-in user
+[debug] [2017-08-16T20:14:44.175Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/emphathize-me  
+ Wed Aug 16 2017 15:14:44 GMT-0500 (Central Daylight Time)
+[debug] [2017-08-16T20:14:44.684Z] <<< HTTP RESPONSE 200
+[debug] [2017-08-16T20:14:44.687Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/emphathize-me/tokens  
+ Wed Aug 16 2017 15:14:44 GMT-0500 (Central Daylight Time)
+[debug] [2017-08-16T20:14:45.082Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'C:\Users\Brave Initiatives\Desktop\startbootstrap-new-age-gh-pages'...
+[info] 
+[debug] [2017-08-16T20:14:45.095Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/emphathize-me  
+ Wed Aug 16 2017 15:14:45 GMT-0500 (Central Daylight Time)
+[debug] [2017-08-16T20:14:45.426Z] <<< HTTP RESPONSE 200
+[debug] [2017-08-16T20:14:45.427Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/655192727716/clients/_:getWebAppConfig  
+ Wed Aug 16 2017 15:14:45 GMT-0500 (Central Daylight Time)
+[debug] [2017-08-16T20:14:45.896Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] +  hosting: Local server: http://localhost:5000
+
+[debug] [2017-08-16T20:49:32.207Z] ----------------------------------------------------------------------
+[debug] [2017-08-16T20:49:32.210Z] Command:       C:\Program Files (x86)\nodejs\node.exe C:\Users\Brave Initiatives\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] [2017-08-16T20:49:32.211Z] CLI Version:   3.9.2
+[debug] [2017-08-16T20:49:32.211Z] Platform:      win32
+[debug] [2017-08-16T20:49:32.211Z] Node Version:  v6.11.2
+[debug] [2017-08-16T20:49:32.212Z] Time:          Wed Aug 16 2017 15:49:32 GMT-0500 (Central Daylight Time)
+[debug] [2017-08-16T20:49:32.212Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-08-16T20:49:32.227Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-08-16T20:49:32.227Z] > authorizing via signed-in user
+[debug] [2017-08-16T20:49:32.231Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2017-08-16T20:49:32.231Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token { refresh_token: '1/MpnylXdu4J73G7Jypc-EAlJWhydkaRSeBM5xEs6T6Lg',
+  client_id: '563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com',
+  client_secret: 'j9iVZfS8kkCEFUPaAeJV0sAi',
+  grant_type: 'refresh_token',
+  scope: 'email https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase openid' } 
+ Wed Aug 16 2017 15:49:32 GMT-0500 (Central Daylight Time)
+[debug] [2017-08-16T20:49:32.597Z] <<< HTTP RESPONSE 200
+[debug] [2017-08-16T20:49:32.628Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/emphathize-me  
+ Wed Aug 16 2017 15:49:32 GMT-0500 (Central Daylight Time)
+[debug] [2017-08-16T20:49:33.299Z] <<< HTTP RESPONSE 200
+[debug] [2017-08-16T20:49:33.303Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/emphathize-me/tokens  
+ Wed Aug 16 2017 15:49:33 GMT-0500 (Central Daylight Time)
+[debug] [2017-08-16T20:49:33.706Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'C:\Users\Brave Initiatives\Desktop\startbootstrap-new-age-gh-pages'...
+[info] 
+[debug] [2017-08-16T20:49:33.724Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/emphathize-me  
+ Wed Aug 16 2017 15:49:33 GMT-0500 (Central Daylight Time)
+[debug] [2017-08-16T20:49:34.074Z] <<< HTTP RESPONSE 200
+[debug] [2017-08-16T20:49:34.075Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/655192727716/clients/_:getWebAppConfig  
+ Wed Aug 16 2017 15:49:34 GMT-0500 (Central Daylight Time)
+[debug] [2017-08-16T20:49:34.544Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] +  hosting: Local server: http://localhost:5000
+
